@@ -17,4 +17,4 @@ https://github.com/furuhashilab/README/issues/33#issuecomment-1161184028
 * オープンキャンパスに参加してくれた高校生の名前（アルファベット or イニシャル）＋ 古橋ゼミ生からのメッセージを7/10当日に印刷して手渡しする予定。
 
 ## Memo
-* 2000px  ×  3000px　 ：　 6.667in  ×  10in
+* 2000 × 3000(px)　 ：　 6.667 × 10(in)
