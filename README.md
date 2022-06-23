@@ -15,5 +15,3 @@ https://github.com/furuhashilab/README/issues/33#issuecomment-1161184028
 * トートバックは [TOTE AS CANVAS by ROOTOTE](https://rootote.jp/toteascanvas/about/) の薄手のトートを想定しています。
 ![image](https://user-images.githubusercontent.com/416977/174708696-255e19cf-03d6-4879-b926-8d009475af13.png)
 * オープンキャンパスに参加してくれた高校生の名前（アルファベット or イニシャル）＋ 古橋ゼミ生からのメッセージを7/10当日に印刷して手渡しする予定。
-
-オープンキャンパスに参加してくれた高校生の名前（アルファベット or イニシャル）＋ 古橋ゼミ生からのメッセージを7/10当日に印刷して手渡しする予定。
